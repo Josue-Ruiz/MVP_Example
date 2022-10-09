@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVP_Example</string>
+    <string name="buttonText">Display Next Course</string>
+    <string name="heading">MVP Architecture Pattern</string>
+    <string name="subHeading">Geeks for Geeks Computer Science Online Courses</string>
+    <string name="description">Course Description</string>
+    <string name="reference">Example by:</string>
+    <string name="hyperlink"><a href="https://www.geeksforgeeks.org/mvp-model-view-presenter-architecture-pattern-in-android-with-example/">geeksforgeeks.org</a></string>
+</resources>
